@@ -28,6 +28,7 @@ public abstract class AbstractGame implements Game {
 
     @Override
     public Answer inputValue(String value) {
+        attempts--;
         int bulls = 0;
         int cows = 0;
         for (int i = 0; i < value.length(); i++) {
@@ -38,13 +39,24 @@ public abstract class AbstractGame implements Game {
             if (word.contains(character.toString())) {
                 cows++;
             }
+            checkStatus(bulls,cows,attempts);
         }
         return new Answer(value, cows, bulls);
+    }
+    /**
+     * Отвечает за смену статуса
+     * */
+    private void checkStatus(int bulls, int cows, Integer attempts) {
+        if (attempts>-1){
+            if (bulls==sizeWord){
+                gameStatus = GameStatus.WIN;
+            }
+        } else gameStatus = GameStatus.LOSE;
     }
 
     @Override
     public GameStatus getGameStatus() {
-        return null;
+        return gameStatus;
     }
 
     private String generateWorld() {

@@ -1,11 +1,15 @@
 package sem_3.Game_cows;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class EnGame extends AbstractGame{
     @Override
     List<String> generateCharList() {
-
-        return null;
+        List<String> charList = new ArrayList<>();
+        for (int i = 'a'; i <= 'z'; i++) {
+            charList.add(String.valueOf((char) i));
+        }
+        return charList;
     }
 }

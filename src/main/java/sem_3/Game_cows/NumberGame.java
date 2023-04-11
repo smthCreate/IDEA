@@ -12,5 +12,6 @@ public class NumberGame extends AbstractGame {
         }
         return charList;
     }
+
 }
 
