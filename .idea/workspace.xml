@@ -4,15 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a104e03-dbae-42d3-a8d6-8177acac7171" name="Changes" comment="OOP hw4_2">
+    <list default="true" id="2a104e03-dbae-42d3-a8d6-8177acac7171" name="Changes" comment="OOP hw3">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lek_3/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lek_3/Proga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/lek_3/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/READme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/control/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/model/APeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/model/Index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/model/StudyGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/service/ServiceStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/service/ServiceStudyGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_5/service/ServiceTeacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem_2/RunAndJump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem_2/RunAndJump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/AbstractGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/AbstractGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/EnGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/EnGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/NumberGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/NumberGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/RuGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/sem_3/Game_cows/RuGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sem_2/RunAndJump.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sem_2/RunAndJump.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sem_3/Game_cows/AbstractGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sem_3/Game_cows/AbstractGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sem_3/Game_cows/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sem_3/Game_cows/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sem_3/Game_cows/EnGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sem_3/Game_cows/EnGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sem_3/Game_cows/RuGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sem_3/Game_cows/RuGame.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +68,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/user/IdeaProjects/sem_3/sem/javaoop"
+    "last_opened_file_path": "C:/Users/user/Geekbrains/OOP_Java/sem_7"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,14 +76,30 @@
       <recent name="sem_4" />
       <recent name="org.example" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\IDEA\src\main\java\sem_5" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Application">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem_3.Game_cows.Application" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sem_3.Game_cows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_5.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem_5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,6 +120,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="lek_3.Proga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lek_3.Proga" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lek_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,6 +146,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.lek_3.Proga" />
         <item itemvalue="Application.Application" />
         <item itemvalue="Application.Proga" />
       </list>
@@ -139,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680856810633</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="OOP hw3">
+      <created>1681205184241</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681205184241</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +208,7 @@
     <MESSAGE value="OOP hw" />
     <MESSAGE value="OOP hw4" />
     <MESSAGE value="OOP hw4_2" />
-    <option name="LAST_COMMIT_MESSAGE" value="OOP hw4_2" />
+    <MESSAGE value="OOP hw3" />
+    <option name="LAST_COMMIT_MESSAGE" value="OOP hw3" />
   </component>
 </project>
