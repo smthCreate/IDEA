@@ -1,7 +1,9 @@
 package sem_6;
 
 import java.util.Scanner;
-
+/**
+ * класс отвечает отдельно за ввод данных, не смогла придумать как унаследоваться от какого-нибудь базового, чтобы каждый наследник мог принимать на вход
+ * */
 public class Prompt {
 
     public String promptStr(String message) {
