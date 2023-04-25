@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2a104e03-dbae-42d3-a8d6-8177acac7171" name="Changes" comment="OOP hw5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_6/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_6/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_6/Proga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_6/Prompt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_6/StringPrompt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_6/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Proba/Proga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/Calculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/CalculableFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/ICalculableFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/LogFacory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/Loggable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/LoggerCalc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/ViewCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sem_5/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sem_5/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/sem_6/Prompt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sem_6/Prompt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +54,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/user/Geekbrains/Java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/IDEA&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="sem_4" />
@@ -66,21 +73,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\user\IdeaProjects\IDEA\src\main\java\sem_5" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sem_7" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.sem_6.Proga">
-    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_3.Game_cows.Application" />
-      <module name="OOP" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="sem_3.Game_cows.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sem_7.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sem_5.Main" />
       <module name="OOP" />
@@ -94,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sem_4.Proga" />
+    <configuration name="Proba.Proga" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Proba.Proga" />
       <module name="OOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sem_4.*" />
+          <option name="PATTERN" value="Proba.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,6 +130,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sem_7.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sem_7.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sem_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -146,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sem_7.Main" />
+        <item itemvalue="Application.Proba.Proga" />
         <item itemvalue="Application.sem_6.Proga" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.lek_3.Proga" />
-        <item itemvalue="Application.Application" />
-        <item itemvalue="Application.Proga" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +208,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681844097983</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="OOP hw5">
+      <created>1681994607836</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1681994607836</updated>
+    </task>
+    <task id="LOCAL-00007" summary="OOP hw5">
+      <created>1681995724937</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1681995724937</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
