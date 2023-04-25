@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2a104e03-dbae-42d3-a8d6-8177acac7171" name="Changes" comment="OOP hw5">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Proba/Proga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/Calculable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/CalculableFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/ICalculableFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/LogFacory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/Loggable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/LoggerCalc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/sem_7/ViewCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/sem_6/Prompt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/sem_6/Prompt.class" afterDir="false" />
-    </list>
+    <list default="true" id="2a104e03-dbae-42d3-a8d6-8177acac7171" name="Changes" comment="OOP hw5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -222,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681995724937</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="OOP hw5">
+      <created>1682425061202</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682425061202</updated>
+    </task>
+    <task id="LOCAL-00009" summary="OOP hw5">
+      <created>1682425100040</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682425100040</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +242,7 @@
     <MESSAGE value="OOP hw4" />
     <MESSAGE value="OOP hw4_2" />
     <MESSAGE value="OOP hw3" />
+    <MESSAGE value="OOP hw7" />
     <MESSAGE value="OOP hw5" />
     <option name="LAST_COMMIT_MESSAGE" value="OOP hw5" />
   </component>
